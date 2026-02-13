@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    border: 3px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color:purple;
+    background-color: rgb(255, 255, 255);
+    margin-right:50px;
+
+}
+h2{
+    background-color: rgb(174, 40, 121);
+    border-radius: 10px;
+    border-style: solid;
+    text-align: center;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+    color: rgb(255, 255, 255);
+}
